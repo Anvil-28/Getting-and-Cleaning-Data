@@ -3,7 +3,7 @@
 ## INTRODUCTION
 ------------
 
-This repository is the project for the Coursera Data Science Specialization Course 3: Getting and Cleaning Data The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+This repository is the project for the Coursera Data Science Specialization Course 3: Getting and Cleaning Data The purpose of this project is to demonstrate the ability to get and clean a data set. The goal is to prepare tidy data that can be used for analysis.
 
 ## CONTENT
 -------
@@ -12,7 +12,7 @@ The following files can be found in this repository
 
 1.  README.md (the current file) explains the content of each file
 
-2.  CodeBook.md is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data (an overview is outlined above under the run\_analysis.R description)
+2.  CodeBook.md is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data
 
 3.  the tidyData.txt is a tidy data set that has the mean and standard deviation for each measurments with the subject ID and the activities performed
 
